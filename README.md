@@ -1,0 +1,2 @@
+# JniDemo
+java native interface
